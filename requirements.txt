@@ -2,3 +2,5 @@ flask
 aiohttp
 requests
 pycryptodome
+gunicorn
+
